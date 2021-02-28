@@ -1,0 +1,1 @@
+Olá, esse mini projeto tem o intuito de recriar a página inicial do Instagram!
